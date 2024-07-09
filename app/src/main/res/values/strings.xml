@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quiz app final</string>
+    <string name="quiz_header">QUIZ</string>
+    <string name="question_1">Do you think aliens watch our TV shows and laugh at us?</string>
+</resources>
